@@ -1,0 +1,48 @@
+
+.left{
+    background-color:rgb(5, 5, 94);
+    color:white;
+    float: left;
+    width:30%;
+    height: 600px;;
+}
+h1{
+
+    padding:0px 0px 0px 15px;
+    font-family:   Arial;
+}
+p{
+    padding:0px 0px 0px 50px;
+    font-family:   Arial; 
+}
+.right{
+    background-color: rgb(221, 219, 217);
+width:70%;
+    float: right;
+    height:600px;
+}
+.list{
+
+    padding:10px;
+    font-family:   Arial, sans-serif;
+}
+input{
+
+    margin:0px 0px 10px 0px;
+    width:99%;
+    border: solid skyblue 1px;
+    border-radius:5px;
+    height:25px;
+}
+button{
+border:solid black 1px;
+background-color:rgb(5, 5, 94);
+color: white;
+padding:5px;
+border-radius:8%;
+}
+content{
+
+
+    display: flex;
+}
